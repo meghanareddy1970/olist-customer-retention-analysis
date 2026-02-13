@@ -24,6 +24,7 @@ The objective was to evaluate customer retention patterns, revenue concentration
 3. Segmented customers into One-Time and Repeat buyers.
 4. Corrected reverse causality by analyzing first-order delivery impact.
 5. Performed behavioral revenue segmentation.
+6. Created visualizations to illustrate retention imbalance and operational impact.
 
 ---
 
@@ -52,6 +53,7 @@ Operational improvements in delivery performance may directly increase customer 
 - Revenue concentration analysis
 - Reverse causality detection
 - Behavioral impact analysis
+- Data visualization(Matplotlib)
 - Business insight generation
 
 ---
